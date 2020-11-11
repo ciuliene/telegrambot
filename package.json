@@ -1,0 +1,15 @@
+{
+  "name": "meno93miao",
+  "version": "1.0.0",
+  "description": "Meno bot for Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "ciuliene",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
